@@ -5,6 +5,15 @@
 - <b>[The Encryptionater](https://github.com/wafleming1/Encryption_and_Steganography.git)</b>
 
 
+<h2> 📚 Certifications</h2>
+
+- <b> GIAC Certified Incident Handler Certification (GCIH) </b>
+- <b> GIAC Security Essentials (GSEC) </b>
+- <b> GIAC Foundational Cybersecurity Technologies (GFACT) </b>
+
+  [GIAC Certified Professionals Lookup](https://www.giac.org/certified-professional/William-Fleming/222751)
+
+
 <h2>📺 Popular YouTube Videos</h2>
 
 
