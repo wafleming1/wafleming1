@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [The Encryptionater](https://github.com/wafleming1/Encryption_and_Steganography.git)
+- <b>[The Encryptionater](https://github.com/wafleming1/Encryption_and_Steganography.git)</b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
