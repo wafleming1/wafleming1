@@ -14,10 +14,6 @@
   [GIAC Certified Professionals Lookup](https://www.giac.org/certified-professional/William-Fleming/222751)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-
-
 <h2> 🤳 Connect with me:</h2>
 
 
