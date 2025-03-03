@@ -1,5 +1,7 @@
 <h1>Hi, I'm Bill! <br/><a href="https://www.linkedin.com/in/william-fleming-jr/">Cybersecurity Professional</a></h1>
 
+<b> Passionate about cybersecurity. Learning every day, experimenting with security tools, and building a strong foundation in digital defense and offensive tactics, techniques, procedures. Excited to grow and learn in this constantly evolving field! </b>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[The Encryptionator](https://github.com/wafleming1/Encryption_and_Steganography.git)</b>
