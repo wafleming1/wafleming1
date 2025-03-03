@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>[The Encryptionater](https://github.com/wafleming1/Encryption_and_Steganography.git)</b>
-
+- <b>[VPN Router](https://github.com/wafleming1/VPN-Router.git)</b>
 
 <h2> 📚 Certifications</h2>
 
