@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bill! <br/><a href="https://www.linkedin.com/in/william-fleming-jr/">Cybersecurity Professional</a></h1>
 
-<b> Passionate about cybersecurity. Learning every day, experimenting with security tools, and building a strong foundation in digital defense and offensive tactics, techniques, procedures. Excited to grow and learn in this constantly evolving field! </b>
+<b> Passionate about cybersecurity and in learning new things every day. Enjoy experimenting with security tools and building a strong foundation in digital defense and offensive tactics, techniques, procedures. Excited to grow and learn in this constantly evolving field! </b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
