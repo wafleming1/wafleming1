@@ -6,6 +6,7 @@
 
 - <b>[The Encryptionator](https://github.com/wafleming1/Encryption_and_Steganography.git)</b>
 - <b>[VPN Router](https://github.com/wafleming1/VPN-Router.git)</b>
+- <b>[Active Directory and Splunk](https://github.com/wafleming1/ActiveDirectory_Splunk.git))</b>
 
 <h2> 📚 Certifications</h2>
 
